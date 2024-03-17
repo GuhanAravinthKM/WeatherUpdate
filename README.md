@@ -1,4 +1,4 @@
 # WeatherUpdate
 Simple Weather web page using openweathermap api.
-![image](https://github.com/GuhanAravinthKM/WeatherUpdate/assets/159403674/97b075d7-3448-466a-899e-6b5e76cd63d4)
+![image](https://github.com/GuhanAravinthKM/WeatherUpdate/assets/159403674/b2984089-bf58-4cb5-b3d9-5243e2876f6f)
 
